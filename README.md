@@ -12,5 +12,7 @@ java –jar contact-management-0.0.1-SNAPSHOT.jar
 url= http://localhost:8090/api/h2
 
 # Front End - need nodejs and angular cli
-Execute below 
+Execute below on path contact_client folder
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Or Run on HTTP Server on same port 4200 as backend allowing 4200 only
+
