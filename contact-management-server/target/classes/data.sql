@@ -1,0 +1,1 @@
+//---insert into contact VALUES (1,'devendra', 'kahane', '8668389821', 'devendra.kahane@gmail.com', true);
